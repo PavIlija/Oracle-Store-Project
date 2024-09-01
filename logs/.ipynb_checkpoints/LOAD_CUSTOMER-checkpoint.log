@@ -1,0 +1,7 @@
+2024-08-30 16:38:30,489:INFO:Starting the database operations script in production environment.
+2024-08-30 16:38:30,527:INFO:Oracle client initialized.
+2024-08-30 16:38:30,726:INFO:Connection pool for ETL user created in production environment.
+2024-08-30 16:38:30,818:INFO:Connection pool for APP user created in production environment.
+2024-08-30 16:38:30,818:INFO:Connection acquired and cursor created for ETL user.
+2024-08-30 16:38:30,820:ERROR:Oracle error code: 942
+2024-08-30 16:38:30,821:ERROR:Oracle error message: ORA-00942: table or view does not exist

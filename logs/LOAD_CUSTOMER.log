@@ -1,0 +1,30 @@
+2024-09-01 16:33:11,677:INFO:Starting the database operations script in production environment.
+2024-09-01 16:33:11,843:ERROR:Error during upsert operation: ORA-00001: unique constraint (APP.CUSTOMERS_PK) violated
+Help: https://docs.oracle.com/error-help/db/ora-00001/
+2024-09-01 16:33:11,844:ERROR:Error in main function: ORA-00001: unique constraint (APP.CUSTOMERS_PK) violated
+Help: https://docs.oracle.com/error-help/db/ora-00001/
+2024-09-01 16:33:41,103:INFO:Starting the database operations script in production environment.
+2024-09-01 16:33:41,172:INFO:Data synchronization between ETL.S_CUSTOMERS and APP.CUSTOMERS completed.
+2024-09-01 16:33:59,156:INFO:Starting the database operations script in production environment.
+2024-09-01 16:33:59,255:INFO:Data synchronization between ETL.S_CUSTOMERS and APP.CUSTOMERS completed.
+2024-09-01 16:34:34,702:INFO:Starting the database operations script in production environment.
+2024-09-01 16:34:34,776:INFO:Data synchronization between ETL.S_CUSTOMERS and APP.CUSTOMERS completed.
+2024-09-01 16:34:40,315:INFO:Starting the database operations script in production environment.
+2024-09-01 16:34:40,397:INFO:Data synchronization between ETL.S_CUSTOMERS and APP.CUSTOMERS completed.
+2024-09-01 16:34:53,614:INFO:Starting the database operations script in production environment.
+2024-09-01 16:34:53,702:INFO:Data synchronization between ETL.S_CUSTOMERS and APP.CUSTOMERS completed.
+2024-09-01 16:35:37,240:INFO:Starting the database operations script in production environment.
+2024-09-01 16:35:37,311:INFO:Data synchronization between ETL.S_CUSTOMERS and APP.CUSTOMERS completed.
+2024-09-01 16:35:47,721:INFO:Starting the database operations script in production environment.
+2024-09-01 16:35:47,781:ERROR:Error fetching data: ORA-00936: missing expression
+Help: https://docs.oracle.com/error-help/db/ora-00936/
+2024-09-01 16:35:47,785:ERROR:Error in main function: ORA-00936: missing expression
+Help: https://docs.oracle.com/error-help/db/ora-00936/
+2024-09-01 16:35:57,952:INFO:Starting the database operations script in production environment.
+2024-09-01 16:35:58,046:INFO:Data synchronization between ETL.S_CUSTOMERS and APP.CUSTOMERS completed.
+2024-09-01 16:36:09,378:INFO:Starting the database operations script in production environment.
+2024-09-01 16:36:09,496:INFO:Data synchronization between ETL.S_CUSTOMERS and APP.CUSTOMERS completed.
+2024-09-01 16:37:00,320:INFO:Starting the database operations script in production environment.
+2024-09-01 16:37:00,434:INFO:Executing UPDATE.
+2024-09-01 16:37:00,435:INFO:Executing UPDATE.
+2024-09-01 16:37:00,436:INFO:Data synchronization between ETL.S_CUSTOMERS and APP.CUSTOMERS completed.
